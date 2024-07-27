@@ -1,0 +1,20 @@
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\bin\Debug\movimiento_vectorial.exe
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\bin\Debug\movimiento_vectorial.pdb
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\bin\Debug\movimiento_vectorial.xml
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\movimiento_vectorial.Form1.resources
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\movimiento_vectorial.Resources.resources
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\movimiento_vectorial.vbproj.GenerateResource.Cache
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\movimiento_vectorial.exe
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\movimiento_vectorial.xml
+C:\Users\sopes\AppData\Local\Temporary Projects\movimiento_vectorial\obj\Debug\movimiento_vectorial.pdb
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\movimiento_vectorial.exe
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\movimiento_vectorial.xml
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\movimiento_vectorial.pdb
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\bin\Debug\movimiento_vectorial.exe
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\bin\Debug\movimiento_vectorial.pdb
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\bin\Debug\movimiento_vectorial.xml
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\movimiento_vectorial.Form1.resources
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\movimiento_vectorial.Resources.resources
+C:\Users\sopes\OneDrive\Documentos\Visual Studio 2008\Projects\movimiento_vectorial\movimiento_vectorial\obj\Debug\movimiento_vectorial.vbproj.GenerateResource.Cache
